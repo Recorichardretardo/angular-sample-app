@@ -1,0 +1,22 @@
+h3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.card {
+    margin-bottom: 3%;
+}
+
+.card:hover {
+    background-color: #007bff;
+    cursor: pointer;
+}
+
+.card:hover a {
+    color:#FFFFFF
+}
+
+.card a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
